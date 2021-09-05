@@ -1,0 +1,22 @@
+{
+  "workspaces": [
+    "modules/*"
+  ],
+  "version": "1.0.0",
+  "author": "Cangshi",
+  "license": "",
+  "private": true,
+  "scripts": {
+    "build": "yarn workspace @hook-js/core run build && yarn workspace @hook-js/timer run build",
+    "gen-dts:docs": "yarn workspaces run gen-dts:docs",
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3",
+    "platevia": "^1.0.7"
+  }
+}

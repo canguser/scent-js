@@ -1,0 +1,6 @@
+[submodule "modules/core"]
+	path = modules/template
+	url = https://github.com/canguser/scent-template.git
+[submodule "modules/ajax"]
+	path = modules/proxies
+	url = https://github.com/canguser/scent-proxies.git
