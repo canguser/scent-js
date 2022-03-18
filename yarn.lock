@@ -487,6 +487,11 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
+"@rapidly/utils@^2.0.0-beta3":
+  version "2.0.0-beta3"
+  resolved "https://registry.yarnpkg.com/@rapidly/utils/-/utils-2.0.0-beta3.tgz#71a51c38057643b631f744a70df4524321bbb99c"
+  integrity sha512-LzyalXnc4WqoC577gnmtIm8oKemdZHBNCdeMPGkFY/ROm1f1RkHNPtW5Z7r3sBm+1ZQlc3cNKsPJEVxJDHuLiQ==
+
 "@rollup/plugin-commonjs@^20.0.0":
   version "20.0.0"
   resolved "https://registry.yarnpkg.com/@rollup/plugin-commonjs/-/plugin-commonjs-20.0.0.tgz#3246872dcbcb18a54aaa6277a8c7d7f1b155b745"
@@ -2625,6 +2630,11 @@ ts-jest@^27.0.5:
     make-error "1.x"
     semver "7.x"
     yargs-parser "20.x"
+
+tslib@^2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/tslib/-/tslib-2.3.1.tgz#e8a335add5ceae51aa261d32a490158ef042ef01"
+  integrity sha512-77EbyPPpMz+FRFRuAFlWMtmgUWGe9UOG2Z25NqCwiIjRhOf5iKGuzSe5P2w1laq+FkRy4p+PCuVkJSGkzTEKVw==
 
 type-check@~0.3.2:
   version "0.3.2"
