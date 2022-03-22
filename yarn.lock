@@ -487,10 +487,10 @@
     "@types/yargs" "^16.0.0"
     chalk "^4.0.0"
 
-"@rapidly/utils@^2.0.0-beta4":
-  version "2.0.0-beta4"
-  resolved "https://registry.yarnpkg.com/@rapidly/utils/-/utils-2.0.0-beta4.tgz#2b8c5793f6e07a1019f4950e3cdec53e997a4295"
-  integrity sha512-fWl/Ep2b9k+AIu+jis/0w0ED/A2CTa/eib8iGJgalxdZ6kilITErGhD5X2XjEX/cXmPWcMqDiPwn5QQmw0Ao1w==
+"@rapidly/utils@^2.0.0-beta6":
+  version "2.0.0-beta6"
+  resolved "https://registry.yarnpkg.com/@rapidly/utils/-/utils-2.0.0-beta6.tgz#829b4212d12f6562b8e0da3a13a8dbba75059396"
+  integrity sha512-V0QEFh3d9XITOS3gGgeg+6LOe+jAQjcTYOVDQF2SveqRDY21oySCuLR7SFv/YFZrAGMLX++SIE2a8D7QZG2jFg==
 
 "@rollup/plugin-commonjs@^20.0.0":
   version "20.0.0"
