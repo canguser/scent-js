@@ -1,6 +1,12 @@
+[submodule "modules/core"]
+	path = modules/core
+	url = https://github.com/canguser/scent-core.git
 [submodule "modules/template"]
 	path = modules/template
 	url = https://github.com/canguser/scent-template.git
 [submodule "modules/proxies"]
 	path = modules/proxies
 	url = https://github.com/canguser/scent-proxies.git
+[submodule "modules/route"]
+	path = modules/route
+	url = https://github.com/canguser/scent-route.git
