@@ -12,4 +12,4 @@
 	url = https://github.com/canguser/scent-route.git
 [submodule "modules/adaptor-vue"]
 	path = modules/route
-	url = https://github.com/canguser/adaptor-vue.git
+	url = https://github.com/canguser/scent-adaptor-vue.git
